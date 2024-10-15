@@ -77,11 +77,10 @@ Ensure that you have the following tools installed:
 ### Welcome Page
 ![Welcome Page](images/welcome.png)
 
-### Login Page
-![Login Page](images/login.png)
-
 ### MCQ Generator in Action
 ![MCQ Generator](images/mcq-generator.png)
+
+![MCQ Generator](images/mcq-generator2.png)
 
 ## Firebase Configuration
 
