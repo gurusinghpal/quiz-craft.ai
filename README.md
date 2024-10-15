@@ -6,7 +6,7 @@
 ## Features
 
 - **Automated MCQ Generation**: Upload text files and automatically generate MCQs from your content.
-- **Firebase Authentication**: Secure user authentication using Google Sign-In or email/password login.
+- **Firebase Authentication**: Secure user authentication using Google Sign-In or email/password login. //has been disabled for a while
 - **User-friendly Interface**: Intuitive and minimalistic design for easy navigation and quick access to functionalities.
 - **Responsive Design**: Fully functional on various screen sizes and devices.
 - **Frontend Only**: No backend required as Firebase handles all storage and authentication.
@@ -124,4 +124,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or suggestions, feel free to contact us.
 
 - **Email**: [gurusingh2585@gmail.com](mailto:gurusingh2585@gmail.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/gurusinghpal)
+- **GitHub**: [gurusinghpal](https://github.com/gurusinghpal)
